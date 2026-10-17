@@ -49,5 +49,5 @@ unauthorized software, that's on you, not me.
 
 MIT, with one added condition: if you modify Exhaust and share your version,
 you have to say clearly that it's modified and not pass it off as the original.
-See the `LICENSE` file for the full text. Copyright (c) 2026 calistabyte-python.
+See the `LICENSE` file for the full text. Copyright (c) 2026 calistabytedotpy OR calistabyte@gmail.com.
 
