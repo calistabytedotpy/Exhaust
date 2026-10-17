@@ -1,4 +1,4 @@
-# Exhaust
+NOTE I HAD AI SEPERATE EVERYTHING FOR YOU GUYS SINCE I DONT WANNA MESS IT UP WHILE DOING IT (IN THE CODE) # Exhaust
 # Exhaust
 
 A small launcher for local Windows games. Point it at a folder, it finds the
